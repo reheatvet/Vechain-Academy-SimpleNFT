@@ -45,5 +45,5 @@ npm install
 # 4. Start the development server
 npm run dev
 
-# 5.
+# 5. Use the dApp
 Open your browser at http://localhost:5173/
