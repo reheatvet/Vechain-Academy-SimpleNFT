@@ -5,3 +5,5 @@
 2. Mint an NFT
 3. Sign the transaction
 4. A SimpleNFT will be sent to your connected wallet
+
+![banner](./images/banner.png "Banner")
